@@ -1,0 +1,9 @@
+.container{
+
+background: yellow;
+position:relative; /*esto se usa para hacer las barras arriba, uno desplaza y se queda fija*/
+float: left;
+display: inline-block;
+}
+
+
